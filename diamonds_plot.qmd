@@ -17,6 +17,7 @@ When you click the **Render** button a document will be generated that includes 
 
 # important libraries
 library(ggplot2)
+library(rmarkdown)
 ```
 
 You can add options to executable code like this
