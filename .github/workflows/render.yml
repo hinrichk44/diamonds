@@ -20,7 +20,7 @@ jobs:
           packages: |
             any::knitr
       - name: Render site
-        run: quarto render
+        run: quarto render diamonds_plot.qmd
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
 
