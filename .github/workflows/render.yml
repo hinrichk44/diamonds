@@ -1,4 +1,4 @@
-name: render.yml
+name: Build and Render Quarto
 
 on:
   push:
